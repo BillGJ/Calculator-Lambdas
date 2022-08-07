@@ -1,4 +1,4 @@
-# Lambdas - Calculator Exercise
+# Calculator - Lambdas 
 
 General-purpose calculator program that can be run from the command-line to perform math on two integer operands.
 The purpose is to demonstrate a use case of *Lambdas* are used for in this scenario
